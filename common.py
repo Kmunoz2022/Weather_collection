@@ -18,7 +18,7 @@ STATIONS = {
 }
 
 # NWS requires an identifying User-Agent. Put a real contact here.
-USER_AGENT = "(weather-forecast-project, josegc7773@gmail.com)"
+USER_AGENT = "(weather-forecast-project, https://github.com/Kmunoz2022/Weather_collection)"
 
 
 def utc_stamp() -> str:
