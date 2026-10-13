@@ -1,0 +1,37 @@
+name: collect-nws
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-nws
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Collect NWS forecasts
+        run: python 02_collect_nws.py
+
+      - name: Commit new snapshots
+        run: |
+          git config user.name "nws-collector"
+          git config user.email "nws-collector@users.noreply.github.com"
+          git add data/raw/nws
+          git diff --cached --quiet || git commit -m "NWS snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
