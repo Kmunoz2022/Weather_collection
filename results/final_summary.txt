@@ -1,0 +1,6 @@
+final test: ridge MAE 1.45 vs simple average 2.09 (difference 95% CI -0.76 to -0.53): better than the simple average.
+final test: random_forest MAE 1.51 vs simple average 2.09 (difference 95% CI -0.73 to -0.43): better than the simple average.
+final test: bias_corrected_avg3 MAE 1.51 vs simple average 2.09 (difference 95% CI -0.72 to -0.44): better than the simple average.
+robustness set: ridge MAE 1.47 vs simple average 2.10 (difference 95% CI -0.76 to -0.52): better than the simple average.
+robustness set: random_forest MAE 1.55 vs simple average 2.10 (difference 95% CI -0.70 to -0.42): better than the simple average.
+robustness set: bias_corrected_avg3 MAE 1.54 vs simple average 2.10 (difference 95% CI -0.71 to -0.43): better than the simple average.

@@ -1,0 +1,28 @@
+{
+ "best_single_source": "gfs",
+ "bias_corrected_window": 30,
+ "baseline_cv_mae": {
+  "gfs": 2.374306106264869,
+  "hrrr": 2.5952418715305314,
+  "ecmwf": 3.2585249801744647,
+  "avg3": 2.3455987311657416,
+  "bias_corrected_avg3": 1.6046679154808994
+ },
+ "final_choices": {
+  "ridge": [
+   "G3 + past errors",
+   30,
+   {
+    "alpha": 100.0
+   }
+  ],
+  "rf": [
+   "G2 + station & season",
+   30,
+   {
+    "max_depth": 8,
+    "min_samples_leaf": 10
+   }
+  ]
+ }
+}

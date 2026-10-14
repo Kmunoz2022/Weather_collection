@@ -1,0 +1,9 @@
+model,features,n_features,cv_MAE,window_days,params,cv_MAE_vs_avg3
+ridge,G0 sources only,3,1.8221719726651282,,"{""alpha"": 100.0}",-0.5234267585006134
+ridge,G1 + consensus & spread,6,1.8318475763160427,,"{""alpha"": 100.0}",-0.5137511548496989
+ridge,G2 + station & season,11,1.7207399303134912,,"{""alpha"": 100.0}",-0.6248588008522504
+ridge,G3 + past errors,18,1.5910943107046107,30.0,"{""alpha"": 100.0}",-0.7545044204611309
+rf,G0 sources only,3,1.802863410824416,,"{""max_depth"": 8, ""min_samples_leaf"": 10}",-0.5427353203413257
+rf,G1 + consensus & spread,6,1.8048282629654697,,"{""max_depth"": 4, ""min_samples_leaf"": 10}",-0.5407704682002719
+rf,G2 + station & season,11,1.5837879782840485,,"{""max_depth"": 8, ""min_samples_leaf"": 10}",-0.7618107528816931
+rf,G3 + past errors,18,1.5926667880199998,7.0,"{""max_depth"": 8, ""min_samples_leaf"": 10}",-0.7529319431457417
