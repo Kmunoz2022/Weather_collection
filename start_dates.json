@@ -1,0 +1,22 @@
+{
+ "gfs_global": {
+  "first_date": "2021-03-24",
+  "spot_check_gaps": []
+ },
+ "ncep_hrrr_conus": {
+  "first_date": "2024-01-19",
+  "spot_check_gaps": []
+ },
+ "ecmwf_ifs025": {
+  "first_date": "2024-02-04",
+  "spot_check_gaps": []
+ },
+ "ncep_nbm_conus": {
+  "first_date": "2024-10-09",
+  "spot_check_gaps": []
+ },
+ "ecmwf_ifs": {
+  "first_date": "2025-10-01",
+  "spot_check_gaps": []
+ }
+}

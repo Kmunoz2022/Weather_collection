@@ -1,0 +1,730 @@
+[
+ {
+  "api": "previous_runs",
+  "model": "gfs_seamless",
+  "date": "2022-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "gfs_seamless",
+  "date": "2024-01-20",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "gfs_seamless",
+  "date": "2024-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "gfs_seamless",
+  "date": "2025-01-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "gfs_seamless",
+  "date": "2025-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "gfs_seamless",
+  "date": "2026-01-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "gfs_seamless",
+  "date": "2026-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "gfs_seamless",
+  "date": "2026-10-05",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "gfs_global",
+  "date": "2022-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "gfs_global",
+  "date": "2024-01-20",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "gfs_global",
+  "date": "2024-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "gfs_global",
+  "date": "2025-01-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "gfs_global",
+  "date": "2025-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "gfs_global",
+  "date": "2026-01-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "gfs_global",
+  "date": "2026-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "gfs_global",
+  "date": "2026-10-05",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_hrrr_conus",
+  "date": "2022-07-15",
+  "http": 200,
+  "nonnull_hours": 0,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_hrrr_conus",
+  "date": "2024-01-20",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_hrrr_conus",
+  "date": "2024-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_hrrr_conus",
+  "date": "2025-01-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_hrrr_conus",
+  "date": "2025-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_hrrr_conus",
+  "date": "2026-01-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_hrrr_conus",
+  "date": "2026-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_hrrr_conus",
+  "date": "2026-10-05",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs",
+  "date": "2022-07-15",
+  "http": 200,
+  "nonnull_hours": 0,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs",
+  "date": "2024-01-20",
+  "http": 200,
+  "nonnull_hours": 0,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs",
+  "date": "2024-07-15",
+  "http": 200,
+  "nonnull_hours": 0,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs",
+  "date": "2025-01-15",
+  "http": 200,
+  "nonnull_hours": 0,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs",
+  "date": "2025-07-15",
+  "http": 200,
+  "nonnull_hours": 0,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs",
+  "date": "2026-01-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs",
+  "date": "2026-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs",
+  "date": "2026-10-05",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs025",
+  "date": "2022-07-15",
+  "http": 200,
+  "nonnull_hours": 0,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs025",
+  "date": "2024-01-20",
+  "http": 200,
+  "nonnull_hours": 0,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs025",
+  "date": "2024-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs025",
+  "date": "2025-01-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs025",
+  "date": "2025-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs025",
+  "date": "2026-01-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs025",
+  "date": "2026-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ecmwf_ifs025",
+  "date": "2026-10-05",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_nbm_conus",
+  "date": "2022-07-15",
+  "http": 200,
+  "nonnull_hours": 0,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_nbm_conus",
+  "date": "2024-01-20",
+  "http": 200,
+  "nonnull_hours": 0,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_nbm_conus",
+  "date": "2024-07-15",
+  "http": 200,
+  "nonnull_hours": 0,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_nbm_conus",
+  "date": "2025-01-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_nbm_conus",
+  "date": "2025-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_nbm_conus",
+  "date": "2026-01-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_nbm_conus",
+  "date": "2026-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "ncep_nbm_conus",
+  "date": "2026-10-05",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "icon_seamless",
+  "date": "2022-07-15",
+  "http": 200,
+  "nonnull_hours": 0,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "icon_seamless",
+  "date": "2024-01-20",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "icon_seamless",
+  "date": "2024-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "icon_seamless",
+  "date": "2025-01-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "icon_seamless",
+  "date": "2025-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "icon_seamless",
+  "date": "2026-01-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "icon_seamless",
+  "date": "2026-07-15",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "previous_runs",
+  "model": "icon_seamless",
+  "date": "2026-10-05",
+  "http": 200,
+  "nonnull_hours": 24,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "gfs_seamless",
+  "date": "2024-07-15T12:00",
+  "http": 400,
+  "nonnull_hours": 0,
+  "error": "The requested model run is not available. Model: ncep_hrrr_conus, run: 2024-07-15T12:00Z"
+ },
+ {
+  "api": "single_runs",
+  "model": "gfs_seamless",
+  "date": "2025-07-15T12:00",
+  "http": 400,
+  "nonnull_hours": 0,
+  "error": "The requested model run is not available. Model: ncep_hrrr_conus, run: 2025-07-15T12:00Z"
+ },
+ {
+  "api": "single_runs",
+  "model": "gfs_seamless",
+  "date": "2026-04-03T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "gfs_seamless",
+  "date": "2026-07-15T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "gfs_seamless",
+  "date": "2026-10-12T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "gfs_global",
+  "date": "2024-07-15T12:00",
+  "http": 400,
+  "nonnull_hours": 0,
+  "error": "The requested model run is not available. Model: ncep_gfs013, run: 2024-07-15T12:00Z"
+ },
+ {
+  "api": "single_runs",
+  "model": "gfs_global",
+  "date": "2025-07-15T12:00",
+  "http": 400,
+  "nonnull_hours": 0,
+  "error": "The requested model run is not available. Model: ncep_gfs013, run: 2025-07-15T12:00Z"
+ },
+ {
+  "api": "single_runs",
+  "model": "gfs_global",
+  "date": "2026-04-03T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "gfs_global",
+  "date": "2026-07-15T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "gfs_global",
+  "date": "2026-10-12T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "ncep_hrrr_conus",
+  "date": "2024-07-15T12:00",
+  "http": 400,
+  "nonnull_hours": 0,
+  "error": "The requested model run is not available. Model: ncep_hrrr_conus, run: 2024-07-15T12:00Z"
+ },
+ {
+  "api": "single_runs",
+  "model": "ncep_hrrr_conus",
+  "date": "2025-07-15T12:00",
+  "http": 400,
+  "nonnull_hours": 0,
+  "error": "The requested model run is not available. Model: ncep_hrrr_conus, run: 2025-07-15T12:00Z"
+ },
+ {
+  "api": "single_runs",
+  "model": "ncep_hrrr_conus",
+  "date": "2026-04-03T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "ncep_hrrr_conus",
+  "date": "2026-07-15T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "ncep_hrrr_conus",
+  "date": "2026-10-12T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "ecmwf_ifs",
+  "date": "2024-07-15T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "ecmwf_ifs",
+  "date": "2025-07-15T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "ecmwf_ifs",
+  "date": "2026-04-03T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "ecmwf_ifs",
+  "date": "2026-07-15T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "ecmwf_ifs",
+  "date": "2026-10-12T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "ecmwf_ifs025",
+  "date": "2024-07-15T12:00",
+  "http": 400,
+  "nonnull_hours": 0,
+  "error": "The requested model run is not available. Model: ecmwf_ifs025, run: 2024-07-15T12:00Z"
+ },
+ {
+  "api": "single_runs",
+  "model": "ecmwf_ifs025",
+  "date": "2025-07-15T12:00",
+  "http": 400,
+  "nonnull_hours": 0,
+  "error": "The requested model run is not available. Model: ecmwf_ifs025, run: 2025-07-15T12:00Z"
+ },
+ {
+  "api": "single_runs",
+  "model": "ecmwf_ifs025",
+  "date": "2026-04-03T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "ecmwf_ifs025",
+  "date": "2026-07-15T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "ecmwf_ifs025",
+  "date": "2026-10-12T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "ncep_nbm_conus",
+  "date": "2024-07-15T12:00",
+  "http": 400,
+  "nonnull_hours": 0,
+  "error": "The requested model run is not available. Model: ncep_nbm_conus, run: 2024-07-15T12:00Z"
+ },
+ {
+  "api": "single_runs",
+  "model": "ncep_nbm_conus",
+  "date": "2025-07-15T12:00",
+  "http": 400,
+  "nonnull_hours": 0,
+  "error": "The requested model run is not available. Model: ncep_nbm_conus, run: 2025-07-15T12:00Z"
+ },
+ {
+  "api": "single_runs",
+  "model": "ncep_nbm_conus",
+  "date": "2026-04-03T12:00",
+  "http": 200,
+  "nonnull_hours": 47,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "ncep_nbm_conus",
+  "date": "2026-07-15T12:00",
+  "http": 200,
+  "nonnull_hours": 47,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "ncep_nbm_conus",
+  "date": "2026-10-12T12:00",
+  "http": 200,
+  "nonnull_hours": 47,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "icon_seamless",
+  "date": "2024-07-15T12:00",
+  "http": 400,
+  "nonnull_hours": 0,
+  "error": "The requested model run is not available. Model: dwd_icon_d2_15min, run: 2024-07-15T12:00Z"
+ },
+ {
+  "api": "single_runs",
+  "model": "icon_seamless",
+  "date": "2025-07-15T12:00",
+  "http": 400,
+  "nonnull_hours": 0,
+  "error": "The requested model run is not available. Model: dwd_icon_d2_15min, run: 2025-07-15T12:00Z"
+ },
+ {
+  "api": "single_runs",
+  "model": "icon_seamless",
+  "date": "2026-04-03T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "icon_seamless",
+  "date": "2026-07-15T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ },
+ {
+  "api": "single_runs",
+  "model": "icon_seamless",
+  "date": "2026-10-12T12:00",
+  "http": 200,
+  "nonnull_hours": 48,
+  "error": null
+ }
+]
